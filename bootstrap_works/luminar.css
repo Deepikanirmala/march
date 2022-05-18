@@ -1,0 +1,87 @@
+#m1{
+    color: black;
+}
+#m1:hover{
+    color: blueviolet;
+}
+#m2{
+    height: 600px;
+}
+#m3{
+    color: aliceblue;
+    background-color: blueviolet;
+    border-radius: 50px;
+    border-style: none;
+    margin-left:  -700px;
+    display: inline-block;
+    height: 60px;
+    width: 150px;
+}
+#m4{
+    color: blueviolet;
+   
+}
+#d1{background-color: aliceblue;
+    margin-top: 77px;
+}
+#d1:hover{
+    border: solid 2px blueviolet;
+    box-shadow: 10px 5px white;
+    padding: 10px;
+}
+span{
+    color: rgba(137, 43, 226, 0.521);
+}
+#m5{
+    color: aliceblue;
+    background-color: blueviolet;
+    border-radius: 40px;
+    border:solid blueviolet;
+    size: 100px;
+}
+#m5:hover{
+    color:blueviolet;
+    background-color: aliceblue;
+    
+}
+#m6{
+    height: 400px;
+}
+#n2{margin-left: 40px;
+    border: none;
+}
+header{
+    background-color: blueviolet;
+    color: aliceblue;
+}
+#n3{
+    position:sticky;
+    top:0px;
+}
+#n4{
+    color: blueviolet;
+    text-align: center;
+}
+#m9{
+    color: aliceblue;
+    background-color: blueviolet;
+    border-radius: 40px;
+    border:solid blueviolet;
+    display: block;
+    margin-left: 600px
+}
+#m9:hover{
+    color:blueviolet;
+    background-color: aliceblue;
+}
+#n9:hover{
+    border: solid 2px grey;
+    box-shadow: 10px 5px white;
+    padding: 20px;
+}
+#n10{
+    height: 200px;
+}
+n9{
+    height: 400px;
+}

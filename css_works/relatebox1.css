@@ -1,0 +1,23 @@
+.parent{
+    width: 400px;
+    height: 400px;
+    background-color:bisque ;
+    position: relative;
+    display:inline-flex;
+}
+ .col-1{
+    width: 50px;
+    height: 100px;
+    background-color: aqua;
+}
+.col-2{
+    width: 50px;
+    height: 100px;
+    background-color:blue;
+    padding: ;
+}
+.col-3{
+    width: 50px;
+    height: 100px;
+    background-color:brown;
+}

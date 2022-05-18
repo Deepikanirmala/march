@@ -1,0 +1,30 @@
+.row{
+    width:50% ;
+    height:500px ;
+    background-color: ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 25%;
+    
+}
+.col{
+    width:100px ;
+    height: 200px; ;  
+    border: white 2px solid; 
+}
+.col1{
+    background-color: aqua;
+}
+.col2{
+    background-color: yellowgreen;
+}
+.col3{
+    background-color: violet;
+}
+.col4{
+    background-color: blue;
+}
+.m1{
+    width:
+}

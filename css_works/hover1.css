@@ -1,0 +1,17 @@
+button{
+    height:54px;
+    width: 116px;
+    background-color: blueviolet;
+    border-radius: 23px;
+    color: aliceblue;
+}
+button:hover{
+    background-color: aliceblue;
+    color: blueviolet;
+}
+img{
+    width: 1oopx;
+    height: 100px;
+    border-radius: 20px;
+
+}

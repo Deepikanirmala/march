@@ -1,0 +1,10 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    position: fixed;
+    left: 300px;
+    top: 10px;
+    border-radius: 30px;
+    border: 2px saddlebrown solid;
+}

@@ -1,0 +1,30 @@
+div{
+    width: 50px;
+    height: 100px;
+    border: solid 2px black;
+}
+#m1{margin-left: 194px;background-color:darkolivegreen;}
+#m01{margin-left: 194px;background-color:darksalmon;}
+#m02{margin-left: 194px;background-color:crimson;}
+#m2{margin-top :-348px;margin-left: 249px;background-color:lawngreen;}
+#m3{margin-left:249px; background-color: aqua;}
+#m4{margin-left: 249px;background-color:chocolate;}
+#m5{margin-top: -348px;margin-left: 139px;background-color: brown;}
+#m6{margin-top:18px ;margin-left:139px ;background-color:blueviolet;}
+#m7{margin-top: 19px;margin-left: 139px;background-color: blue;}
+#m8{margin-top:-349px ;margin-left: 304px;background-color: bisque;}
+#m9{margin-top:18px ;margin-left:84px ;background-color: yellow;}
+#m10{margin-top:19px ;margin-left:84px ;background-color: violet;}
+#m11{margin-top:-349px ;margin-left:359px ;background-color: tomato;}
+#m12{margin-top:18px ;margin-left:304px ;background-color: turquoise;}
+#m13{margin-top: 19px;margin-left: 29px;background-color: steelblue;}
+#m14{margin-top:-227px ;margin-left:359px ;background-color: tan;}
+#m15{margin-top:-104px ;margin-left:414px ;background-color: slateblue;}
+#m16{margin-top:18px ;margin-left:304px ;background-color: springgreen;}
+#m17{margin-top:-104px ;margin-left:359px;background-color: sandybrown;}
+#m18{margin-top: -104px;margin-left:414px;background-color: royalblue;}
+#m19{margin-top: -104px;margin-left:469px;background-color: olive;}
+body{
+    background-color: black;margin-top: 100px;margin-left: 220px;
+}
+h3{font-style: italic;color: aliceblue;text-align:justify;}
